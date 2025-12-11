@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/badge/Minecraft%20Version-1.21.3-blue" alt="Minecraft Version">
 </div>
 
-## ⚠ Update on the addon
-
-This addon will be continued however if any issues or bugs occur, please dm the person on discord below since i dont know how to fix the bugs myself but the developer knows.
-
 <hr />
 
 ## ✅ Features
